@@ -16,3 +16,20 @@
     border: none;
     cursor: pointer;
 }
+.cat1{
+    background-image: linear-gradient(to bottom, pink 0%, #FF136f 100%);
+    
+}
+.cat2{
+    background-image: linear-gradient(to bottom, blue 0%, #FF136f 100%);
+    
+}
+.cat3{
+    background-image: linear-gradient(to bottom, purple 0%, #FF136f 100%);
+  
+}
+.cat1,.cat2,.cat3{
+    padding: 20px 30px;
+    color: #ffffff;
+    border-radius: 10px;
+}
